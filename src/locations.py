@@ -1,0 +1,1 @@
+dataset = "D:/Google Drive HDD/Datasets/Mozilla Common Voice Dataset/"
